@@ -4,9 +4,9 @@
 
 This project was created to:
 
-* Deeply understand the search algorithms.
-* Learn the syntax and features of different programming languages.
-* Compare approaches
+- Deeply understand the search algorithms.
+- Learn the syntax and features of different programming languages.
+- Compare approaches
 
 ## Implemented search algorithms
 
@@ -16,13 +16,41 @@ This project was created to:
 | **Binary Search**        | Efficient search in a **sorted** array. |
 | **Exponential search**| A combination of exponential run-up and binary search. |
 | **Interpolation search**| Improved binary search for **evenly distributed** data. |
-| **Levenshtein Distance**| Measures measures the degree of similarity of operations to transform one string into another. |
+| **Levenshtein Distance**| Computes the minimum number of single-character edits (insertions, deletions, substitutions) required to change one string into another. |
 
 ## Supported programming languages
 
-C# | C++ | Fortran | Go | Haskell
-Java | JavaScript | Kotlin | MATLAB | PHP
-Pascal | Perl | Python | Rust | Swift
-TypeScript | Visual Basic .NET (Mono)
+Languages are grouped by their primary programming paradigm to help you navigate by conceptual style.
 
- ❗ For languages where the installation of the environment is difficult, online compilers were used.
+| Imperative / Procedural | Object-oriented | Functional | Multi-paradigm |
+|----------------------------|--------------------------|----------------|---------------------|
+| Pascal                     | Java                     | Haskell        | Python              |
+| Fortran                    | C#                       |                | C++                 |
+|                            | Swift                    |                | Rust                |
+|                            | Kotlin                   |                | Go                  |
+|                            | VB.NET                   |                | JavaScript          |
+|                            |                          |                | TypeScript          |
+|                            |                          |                | PHP                 |
+|                            |                          |                | Perl                |
+|                            |                          |                | MATLAB              |
+
+ ❗ *For languages where the installation of the environment is difficult, online compilers were used.*
+
+## Structure
+
+Each algorithm has its own directory (e.g., `linear-search/`, `binary-search/`), with subdirectories for each language:
+
+polyglot-search-algorithms/
+├── linear-search/
+│ ├── python/
+│ ├── java/
+│ ├── haskell/
+│ └── ...
+├── binary-search/
+│ ├── python/
+│ ├── csharp/
+│ └── ...
+└── README.md
+
+
+
