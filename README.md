@@ -6,7 +6,7 @@ This project was created to:
 
 - Deeply understand the search algorithms.
 - Learn the syntax and features of different programming languages.
-- Compare approaches
+- Compare approaches.
 
 ## Implemented search algorithms
 
