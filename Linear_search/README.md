@@ -32,7 +32,7 @@ This directory contains implementations of linear search in multiple programming
 |-------------------------------|--------------------------|--------------------|-----------------------|
 | [Pascal](Pascal/linear_search.pas)       | [Java](Java/linear_search.java)            | [Haskell](Haskell/linear_search.hs)       | [Python](Python/linear_search.py)         |
 | [Fortran](Fortran/linear_search.f)     | [C#](Csharp/linear_search.cs)                  |                    | [C++](C++/linear_search.cpp)              |
-|                               | [Swift](Swift/linear_search.swift)         |                    | [Rust](Rust/linear_search.rs)             |
+| [C](C/linear_search.c)                              | [Swift](Swift/linear_search.swift)         |                    | [Rust](Rust/linear_search.rs)             |
 |                               | [Kotlin](Kotlin/linear_search.kt)          |                    | [Go](Go/linear_search.go)                 |
 |                               | [Visual Basic](Visual_Basic/linear_search.vb)          |                    | [JavaScript](JavaScript/linear_search.js) |
 |                               |                          |                    | [TypeScript](TypeScript/linear_search.ts) |
