@@ -31,13 +31,15 @@ This directory contains implementations of linear search in multiple programming
 | Imperative / Procedural       | Object-oriented          | Functional         | Multi-paradigm        |
 |-------------------------------|--------------------------|--------------------|-----------------------|
 | [Pascal](Pascal/linear_search.pas)       | [Java](Java/linear_search.java)            | [Haskell](Haskell/linear_search.hs)       | [Python](Python/linear_search.py)         |
-| [Fortran](Fortran/linear_search.f)     | [C#](Csharp/linear_search.cs)                  | [R](R/linear_search.r)                   | [C++](C++/linear_search.cpp)              |
-| [C](C/linear_search.c)                              | [Swift](Swift/linear_search.swift)         |                    | [Rust](Rust/linear_search.rs)             |
-| [COBOL](Cobol/linear_search.cbl)                              | [Kotlin](Kotlin/linear_search.kt)          |                    | [Go](Go/linear_search.go)                 |
-|                               | [Visual Basic](Visual_Basic/linear_search.vb)          |                    | [JavaScript](JavaScript/linear_search.js) |
+| [Fortran](Fortran/linear_search.f90)     | [C#](Csharp/linear_search.cs)              | [R](R/linear_search.r)                    | [C++](C++/linear_search.cpp)              |
+| [C](C/linear_search.c)                   | [Swift](Swift/linear_search.swift)         | [Elixir](Elixir/linear_search.ex)         | [Rust](Rust/linear_search.rs)             |
+| [COBOL](Cobol/linear_search.cbl)         | [Kotlin](Kotlin/linear_search.kt)          | [Scala](Scala/linear_search.scala)        | [Go](Go/linear_search.go)                 |
+| [Ada](Ada/linear_search.adb)             | [Visual Basic](Visual_Basic/linear_search.vb) |                    | [JavaScript](JavaScript/linear_search.js) |
 |                               |                          |                    | [TypeScript](TypeScript/linear_search.ts) |
 |                               |                          |                    | [PHP](PHP/linear_search.php)              |
 |                               |                          |                    | [Perl](Perl/linear_search.pl)             |
 |                               |                          |                    | [MATLAB](MATLAB/linear_search.m)          |
+|                               |                          |                    | [Dart](Dart/linear_search.dart)           |
+|                               |                          |                    | [Zig](Zig/linear_search.zig)              |
 
 > **Note**: For languages where the installation of the environment is difficult, online compilers were used.
