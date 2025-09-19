@@ -42,4 +42,6 @@ This directory contains implementations of linear search in multiple programming
 |                               |                          |                    | [Dart](Dart/linear_search.dart)           |
 |                               |                          |                    | [Zig](Zig/linear_search.zig)              |
 |                               |                          |                    | [Ruby](Ruby/linear_search.rb)             |
+|                               |                          |                    | [Lua](Lua/linear_search.lua)              |
+
 > **Note**: For languages where the installation of the environment is difficult, online compilers were used.
