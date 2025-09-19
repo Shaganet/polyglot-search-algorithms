@@ -34,7 +34,7 @@ This directory contains implementations of linear search in multiple programming
 | [Fortran](Fortran/linear_search.f)     | [C#](Csharp/linear_search.cs)                  |                    | [C++](C++/linear_search.cpp)              |
 |                               | [Swift](Swift/linear_search.swift)         |                    | [Rust](Rust/linear_search.rs)             |
 |                               | [Kotlin](Kotlin/linear_search.kt)          |                    | [Go](Go/linear_search.go)                 |
-|                               | [Visual Basic Mono](Visual Basic Mono/linear_search.vb)          |                    | [JavaScript](JavaScript/linear_search.js) |
+|                               | [Visual Basic](Visual_Basic/linear_search.vb)          |                    | [JavaScript](JavaScript/linear_search.js) |
 |                               |                          |                    | [TypeScript](TypeScript/linear_search.ts) |
 |                               |                          |                    | [PHP](PHP/linear_search.php)              |
 |                               |                          |                    | [Perl](Perl/linear_search.pl)             |
