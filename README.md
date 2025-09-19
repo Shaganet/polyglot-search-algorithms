@@ -44,11 +44,21 @@ polyglot-search-algorithms/
 ├── linear-search/
 │ ├── python/
 │ ├── java/
-│ ├── haskell/
+│ ├── csharp/
+│ ├── javascript/
 │ └── ...
 ├── binary-search/
 │ ├── python/
-│ ├── csharp/
+│ ├── java/
+│ └── ...
+├── exponential-search/
+│ ├── python/
+│ └── ...
+├── interpolation-search/
+│ ├── python/
+│ └── ...
+├── levenshtein-distance/
+│ ├── python/
 │ └── ...
 └── README.md
 
