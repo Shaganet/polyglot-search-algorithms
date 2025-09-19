@@ -23,21 +23,21 @@
 - Prototyping or educational purposes.
 
 ---
-[x](C++/linear_search.cpp)
+
 ## Implementations
 
 This directory contains implementations of linear search in multiple programming languages.
 
-| Imperative / Procedural     | Object-oriented          | Functional       | Multi-paradigm        |
-|-----------------------------|--------------------------|------------------|-----------------------|
-| [Pascal](linear-search/pascal/)       | [Java](linear-search/java/)            | [Haskell](linear-search/haskell/)     | [Python](linear-search/python/)         |
-| [Fortran](linear-search/fortran/)     | [C#](Linear_search/C#/linear_search.cs)            |                  | [C++](Linear_search/C++/linear_search.cpp)               |
-|                             | [Swift](linear-search/swift/)          |                  | [Rust](linear-search/rust/)             |
-|                             | [Kotlin](linear-search/kotlin/)        |                  | [Go](linear-search/go/)                 |
-|                             | [VB.NET](linear-search/vbnet/)         |                  | [JavaScript](linear-search/javascript/) |
-|                             |                          |                  | [TypeScript](linear-search/typescript/) |
-|                             |                          |                  | [PHP](linear-search/php/)               |
-|                             |                          |                  | [Perl](linear-search/perl/)             |
-|                             |                          |                  | [MATLAB](linear-search/matlab/)         |
+| Imperative / Procedural       | Object-oriented          | Functional         | Multi-paradigm        |
+|-------------------------------|--------------------------|--------------------|-----------------------|
+| [Pascal](Pascal/linear_search.pas)       | [Java](Java/linear_search.java)            | [Haskell](Haskell/linear_search.hs)       | [Python](Python/linear_search.py)         |
+| [Fortran](Fortran/linear_search.f)     | [C#](C#/linear_search.cs)                  |                    | [C++](C++/linear_search.cpp)              |
+|                               | [Swift](Swift/linear_search.swift)         |                    | [Rust](Rust/linear_search.rs)             |
+|                               | [Kotlin](Kotlin/linear_search.kt)          |                    | [Go](Go/linear_search.go)                 |
+|                               | [VB.NET](VB.NET/linear_search.vb)          |                    | [JavaScript](JavaScript/linear_search.js) |
+|                               |                          |                    | [TypeScript](TypeScript/linear_search.ts) |
+|                               |                          |                    | [PHP](PHP/linear_search.php)              |
+|                               |                          |                    | [Perl](Perl/linear_search.pl)             |
+|                               |                          |                    | [MATLAB](MATLAB/linear_search.m)          |
 
- ❗ *For languages where the installation of the environment is difficult, online compilers were used.*
+> **Note**: For languages where the installation of the environment is difficult, online compilers were used.
