@@ -27,7 +27,7 @@ Languages are grouped by their primary programming paradigm to help you navigate
 | Pascal                     | Java                     | Haskell        | Python              |
 | Fortran                    | C#                       |                | C++                 |
 | C                           | Swift                    |                | Rust                |
-|                            | Kotlin                   |                | Go                  |
+| COBOL                           | Kotlin                   |                | Go                  |
 |                            | Visual Basic                   |                | JavaScript          |
 |                            |                          |                | TypeScript          |
 |                            |                          |                | PHP                 |
