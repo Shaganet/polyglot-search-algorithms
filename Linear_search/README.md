@@ -23,7 +23,7 @@
 - Prototyping or educational purposes.
 
 ---
-
+[x](Linear_search/C++/linear_search.cpp)
 ## Implementations
 
 This directory contains implementations of linear search in multiple programming languages.
