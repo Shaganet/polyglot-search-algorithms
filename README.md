@@ -28,13 +28,15 @@ Languages are grouped by their primary programming paradigm to help you navigate
 | Fortran                 | C#              | R                | C++                 |
 | C                       | Swift           | Elixir           | Rust                |
 | COBOL                   | Kotlin          | Scala            | Go                  |
-| Ada                     | Visual Basic    |                  | JavaScript          |
+| Ada                     | Visual Basic    | Erlang           | JavaScript          |
 |                         |                 |                  | TypeScript          |
 |                         |                 |                  | PHP                 |
 |                         |                 |                  | Perl                |
 |                         |                 |                  | MATLAB              |
 |                         |                 |                  | Dart                |
 |                         |                 |                  | Zig                 |
+|                         |                 |                  | Ruby                |
+|                         |                 |                  | Lua                 |
 
 > **Note**: For languages where the installation of the environment is difficult, online compilers were used.
 
