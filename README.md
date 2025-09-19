@@ -12,7 +12,7 @@ This project was created to:
 
 | Algorithm | Description |
 |---------------------------|----------|
-| **Linear search**        | Sequential iteration of elements. |
+| [Linear search](Linear_search)        | Sequential iteration of elements. |
 | **Binary Search**        | Efficient search in a **sorted** array. |
 | **Exponential search**| A combination of exponential run-up and binary search. |
 | **Interpolation search**| Improved binary search for **evenly distributed** data. |
