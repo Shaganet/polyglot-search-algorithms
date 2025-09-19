@@ -36,31 +36,5 @@ Languages are grouped by their primary programming paradigm to help you navigate
 
  ❗ *For languages where the installation of the environment is difficult, online compilers were used.*
 
-## Structure
-
-Each algorithm has its own directory (e.g., `linear-search/`, `binary-search/`), with subdirectories for each language:
-
-polyglot-search-algorithms/
-├── linear-search/
-│ ├── python/
-│ ├── java/
-│ ├── csharp/
-│ ├── javascript/
-│ └── ...
-├── binary-search/
-│ ├── python/
-│ ├── java/
-│ └── ...
-├── exponential-search/
-│ ├── python/
-│ └── ...
-├── interpolation-search/
-│ ├── python/
-│ └── ...
-├── levenshtein-distance/
-│ ├── python/
-│ └── ...
-└── README.md
-
 
 
