@@ -28,16 +28,16 @@
 
 This directory contains implementations of linear search in multiple programming languages.
 
-| Imperative / Procedural | Object-oriented | Functional | Multi-paradigm |
-|----------------------------|--------------------------|----------------|---------------------|
-| Pascal                     | Java                     | Haskell        | Python              |
-| Fortran                    | C#                       |                | C++                 |
-|                            | Swift                    |                | Rust                |
-|                            | Kotlin                   |                | Go                  |
-|                            | VB.NET                   |                | JavaScript          |
-|                            |                          |                | TypeScript          |
-|                            |                          |                | PHP                 |
-|                            |                          |                | Perl                |
-|                            |                          |                | MATLAB              |
+| Imperative / Procedural     | Object-oriented          | Functional       | Multi-paradigm        |
+|-----------------------------|--------------------------|------------------|-----------------------|
+| [Pascal](linear-search/pascal/)       | [Java](linear-search/java/)            | [Haskell](linear-search/haskell/)     | [Python](linear-search/python/)         |
+| [Fortran](linear-search/fortran/)     | [C#](Linear_search/C#/linear_search.cs)            |                  | [C++](Linear_search/C++/linear_search.cpp)               |
+|                             | [Swift](linear-search/swift/)          |                  | [Rust](linear-search/rust/)             |
+|                             | [Kotlin](linear-search/kotlin/)        |                  | [Go](linear-search/go/)                 |
+|                             | [VB.NET](linear-search/vbnet/)         |                  | [JavaScript](linear-search/javascript/) |
+|                             |                          |                  | [TypeScript](linear-search/typescript/) |
+|                             |                          |                  | [PHP](linear-search/php/)               |
+|                             |                          |                  | [Perl](linear-search/perl/)             |
+|                             |                          |                  | [MATLAB](linear-search/matlab/)         |
 
  ❗ *For languages where the installation of the environment is difficult, online compilers were used.*
