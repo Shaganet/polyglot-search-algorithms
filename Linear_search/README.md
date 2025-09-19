@@ -27,7 +27,6 @@
 ## Implementations
 
 This directory contains implementations of linear search in multiple programming languages.
-
 | Imperative / Procedural       | Object-oriented          | Functional         | Multi-paradigm        |
 |-------------------------------|--------------------------|--------------------|-----------------------|
 | [Pascal](Pascal/linear_search.pas)       | [Java](Java/linear_search.java)            | [Haskell](Haskell/linear_search.hs)       | [Python](Python/linear_search.py)         |
@@ -41,5 +40,6 @@ This directory contains implementations of linear search in multiple programming
 |                               |                          |                    | [MATLAB](MATLAB/linear_search.m)          |
 |                               |                          |                    | [Dart](Dart/linear_search.dart)           |
 |                               |                          |                    | [Zig](Zig/linear_search.zig)              |
+|                               |                          |                    | [Ruby](Ruby/linear_search.rb)             |
 
 > **Note**: For languages where the installation of the environment is difficult, online compilers were used.
