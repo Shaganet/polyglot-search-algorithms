@@ -22,17 +22,19 @@ This project was created to:
 
 Languages are grouped by their primary programming paradigm to help you navigate by conceptual style.
 
-| Imperative / Procedural | Object-oriented | Functional | Multi-paradigm |
-|----------------------------|--------------------------|----------------|---------------------|
-| Pascal                     | Java                     | Haskell        | Python              |
-| Fortran                    | C#                       | R               | C++                 |
-| C                           | Swift                    |                | Rust                |
-| COBOL                           | Kotlin                   |                | Go                  |
-|                            | Visual Basic                   |                | JavaScript          |
-|                            |                          |                | TypeScript          |
-|                            |                          |                | PHP                 |
-|                            |                          |                | Perl                |
-|                            |                          |                | MATLAB              |
+| Imperative / Procedural | Object-oriented | Functional       | Multi-paradigm      |
+|-------------------------|-----------------|------------------|---------------------|
+| Pascal                  | Java            | Haskell          | Python              |
+| Fortran                 | C#              | R                | C++                 |
+| C                       | Swift           | Elixir           | Rust                |
+| COBOL                   | Kotlin          | Scala            | Go                  |
+| Ada                     | Visual Basic    |                  | JavaScript          |
+|                         |                 |                  | TypeScript          |
+|                         |                 |                  | PHP                 |
+|                         |                 |                  | Perl                |
+|                         |                 |                  | MATLAB              |
+|                         |                 |                  | Dart                |
+|                         |                 |                  | Zig                 |
 
 > **Note**: For languages where the installation of the environment is difficult, online compilers were used.
 
