@@ -34,7 +34,7 @@ Languages are grouped by their primary programming paradigm to help you navigate
 |                            |                          |                | Perl                |
 |                            |                          |                | MATLAB              |
 
- ❗ *For languages where the installation of the environment is difficult, online compilers were used.*
+> **Note**: For languages where the installation of the environment is difficult, online compilers were used.
 
 
 
