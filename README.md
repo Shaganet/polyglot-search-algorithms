@@ -13,7 +13,7 @@ This project was created to:
 | Algorithm | Description |
 |---------------------------|----------|
 | [Linear search](Linear_search)        | Sequential iteration of elements. |
-| **Binary Search**        | Efficient search in a **sorted** array. |
+| [Binary Search](Binary_Search)        | Efficient search in a **sorted** array. |
 | **Exponential search**| A combination of exponential run-up and binary search. |
 | **Interpolation search**| Improved binary search for **evenly distributed** data. |
 | **Levenshtein Distance**| Computes the minimum number of single-character edits (insertions, deletions, substitutions) required to change one string into another. |
