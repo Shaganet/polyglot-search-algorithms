@@ -25,7 +25,7 @@ Languages are grouped by their primary programming paradigm to help you navigate
 | Imperative / Procedural | Object-oriented | Functional | Multi-paradigm |
 |----------------------------|--------------------------|----------------|---------------------|
 | Pascal                     | Java                     | Haskell        | Python              |
-| Fortran                    | C#                       |                | C++                 |
+| Fortran                    | C#                       | R               | C++                 |
 | C                           | Swift                    |                | Rust                |
 | COBOL                           | Kotlin                   |                | Go                  |
 |                            | Visual Basic                   |                | JavaScript          |
