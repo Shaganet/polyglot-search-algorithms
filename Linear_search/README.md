@@ -35,7 +35,7 @@ This directory contains implementations of linear search in multiple programming
 | [C](C/linear_search.c)                   | [Swift](Swift/linear_search.swift)         | [Elixir](Elixir/linear_search.ex)         | [Rust](Rust/linear_search.rs)             |
 | [COBOL](Cobol/linear_search.cbl)         | [Kotlin](Kotlin/linear_search.kt)          | [Scala](Scala/linear_search.scala)        | [Go](Go/linear_search.go)                 |
 | [Ada](Ada/linear_search.adb)             | [Visual Basic](Visual_Basic/linear_search.vb) | [Erlang](Erlang/linear_search.erl)       | [JavaScript](JavaScript/linear_search.js) |
-|                               |                          |                    | [TypeScript](TypeScript/linear_search.ts) |
+| [Assembler(NASM)](Linear_search/Assembler(NASM)/linear_search.asm)                              |                          |                    | [TypeScript](TypeScript/linear_search.ts) |
 |                               |                          |                    | [PHP](PHP/linear_search.php)              |
 |                               |                          |                    | [Perl](Perl/linear_search.pl)             |
 |                               |                          |                    | [MATLAB](MATLAB/linear_search.m)          |
