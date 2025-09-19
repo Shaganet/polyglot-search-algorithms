@@ -44,4 +44,6 @@ This directory contains implementations of linear search in multiple programming
 |                               |                          |                    | [Ruby](Ruby/linear_search.rb)             |
 |                               |                          |                    | [Lua](Lua/linear_search.lua)              |
 
-> **Note**: For languages where the installation of the environment is difficult, online compilers were used.
+## **Notes**:
+> For languages where the installation of the environment is difficult, online compilers were used.
+> To improve the understanding of the code, a file has been added in the appropriate language directories README.md Since the syntax of the language required additional study, the README provides a step-by-step guide with detailed comments on each section of the code and an explanation of the language features used.
